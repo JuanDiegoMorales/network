@@ -1,6 +1,6 @@
 # COMPANET - NETWORKING
 
-COMPANET is a network project that simulates a network of 14 interconnected routers. Through a controller, the routers can communicate with each other, sending files and messages in an encrypted manner.
+COMPANET is a network project that simulates a network of 14 interconnected routers. Through a controller, the routers can communicate with each other, sending files and messages in an encrypted manner. Present by Juan Diego Morales & Alejandra Benavides
 
 # Requirements
 
